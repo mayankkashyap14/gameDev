@@ -1,4 +1,6 @@
 The player manager
 
+Movement in x with speed 5f
+Movement in y with speed 10f
 
 
